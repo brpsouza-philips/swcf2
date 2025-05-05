@@ -1,0 +1,56 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "05/05/2025 11:15:27",
+      "sequence" : 700006,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "table_name" : "OBJETO_SISTEMA",
+      "tag_name" : "CMDK",
+      "tasy_user" : "cmdk_adm",
+      "guid" : "ae6c71b6-aee7-4ce8-9149-bc44cad575a7"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "YY560977",
+      "os_user" : "310265025",
+      "tasy_user" : "cmdk_adm"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NM_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "CMDKLTD_SUM_2_VALUES",
+      "old_value" : "CMDKLTD_SUM_2_VALUES"
+    }, {
+      "column_name" : "IE_BANCO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "Oracle",
+      "old_value" : "Oracle"
+    } ],
+    "column_values" : [ {
+      "column_name" : "NM_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "CMDKLTD_SUM_2_VALUES",
+      "old_value" : "CMDKLTD_SUM_2_VALUES"
+    }, {
+      "column_name" : "DS_SCRIPT_CRIACAO",
+      "data_type" : "LONG",
+      "new_value" : "CREATE OR REPLACE PROCEDURE CMDKLTD_SUM_2_VALUES\nIS\nnumber1 number;\nnumber2 number;\ntotal number;\nBEGIN\n total:= number1 + number2;\nEND CMDKLTD_SUM_2_VALUES;\n/",
+      "old_value" : "CREATE OR REPLACE PROCEDURE CMDKLTD_SUM_2_VALUES\nIS\nnumber1 number;\nnumber2 number;\ntotal number;\nBEGIN\ntotal:= CMDKLTD_GET_NUMBER_2;\n total:= number1 + number2;\nEND CMDKLTD_SUM_2_VALUES;\n/"
+    }, {
+      "column_name" : "IE_TIPO_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "PROCEDURE",
+      "old_value" : "PROCEDURE"
+    }, {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 10145940,
+      "old_value" : 10145940
+    } ]
+  } ]
+}
