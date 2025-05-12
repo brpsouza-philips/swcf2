@@ -24,7 +24,7 @@
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
       "new_value" : null,
-      "old_value" : "CMDKLTD_SUM_2_VALUES2"
+      "old_value" : "CMDKLTD_SUM_2_VALUES"
     }, {
       "column_name" : "IE_BANCO",
       "data_type" : "VARCHAR2",
@@ -35,7 +35,7 @@
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
       "new_value" : null,
-      "old_value" : "CMDKLTD_SUM_2_VALUES2"
+      "old_value" : "CMDKLTD_SUM_2_VALUES"
     }, {
       "column_name" : "IE_MEMORIA",
       "data_type" : "VARCHAR2",
@@ -102,7 +102,7 @@
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
       "new_value" : null,
-      "old_value" : "CMDKLTD_SUM_2_VALUES2"
+      "old_value" : "CMDKLTD_SUM_2_VALUES"
     }, {
       "column_name" : "IE_BANCO",
       "data_type" : "VARCHAR2",
@@ -113,7 +113,7 @@
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
       "new_value" : null,
-      "old_value" : "CMDKLTD_SUM_2_VALUES2"
+      "old_value" : "CMDKLTD_SUM_2_VALUES"
     }, {
       "column_name" : "IE_MEMORIA",
       "data_type" : "VARCHAR2",
@@ -180,7 +180,7 @@
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
       "new_value" : null,
-      "old_value" : "CMDKLTD_SUM_2_VALUES2"
+      "old_value" : "CMDKLTD_SUM_2_VALUES"
     }, {
       "column_name" : "IE_BANCO",
       "data_type" : "VARCHAR2",
@@ -191,7 +191,7 @@
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
       "new_value" : null,
-      "old_value" : "CMDKLTD_SUM_2_VALUES2"
+      "old_value" : "CMDKLTD_SUM_2_VALUES"
     }, {
       "column_name" : "IE_MEMORIA",
       "data_type" : "VARCHAR2",
@@ -258,7 +258,7 @@
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
       "new_value" : null,
-      "old_value" : "CMDKLTD_SUM_2_VALUES2"
+      "old_value" : "CMDKLTD_SUM_2_VALUES"
     }, {
       "column_name" : "IE_BANCO",
       "data_type" : "VARCHAR2",
@@ -269,7 +269,7 @@
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
       "new_value" : null,
-      "old_value" : "CMDKLTD_SUM_2_VALUES2"
+      "old_value" : "CMDKLTD_SUM_2_VALUES"
     }, {
       "column_name" : "IE_MEMORIA",
       "data_type" : "VARCHAR2",
@@ -347,7 +347,7 @@
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
       "new_value" : null,
-      "old_value" : "CMDKLTD_SUM_2_VALUES5"
+      "old_value" : "CMDKLTD_SUM_2_VALUES"
     }, {
       "column_name" : "IE_MEMORIA",
       "data_type" : "VARCHAR2",
