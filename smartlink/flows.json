@@ -31,7 +31,7 @@
         "name": "procedure 1",
         "params": [],
         "sql": "",
-        "procedure": "CMDKLTD_SUM_2_VALUES",
+        "procedure": "CMDKLTD_SUM_2_VALUES6",
         "x": 190,
         "y": 220,
         "wires": [
