@@ -1,0 +1,101 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "14/05/2025 13:19:27",
+      "sequence" : 700018,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "DELETE",
+      "table_name" : "OBJETO_SISTEMA",
+      "tag_name" : "CMDK",
+      "tasy_user" : "lpfreitas",
+      "guid" : "7b94eb73-eba0-4014-9028-83206f8a0315"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "925b63b1a75d",
+      "os_user" : "root",
+      "tasy_user" : "lpfreitas"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NM_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "CMDKLTD_SUM_2_VALUES6"
+    }, {
+      "column_name" : "IE_BANCO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "Oracle"
+    } ],
+    "column_values" : [ {
+      "column_name" : "NM_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "CMDKLTD_SUM_2_VALUES6"
+    }, {
+      "column_name" : "IE_MEMORIA",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "N"
+    }, {
+      "column_name" : "DT_CRIACAO",
+      "data_type" : "DATE",
+      "new_value" : null,
+      "old_value" : "14/05/2025 10:19:27"
+    }, {
+      "column_name" : "DS_APLICACAO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "Tasy"
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "lpfreitas"
+    }, {
+      "column_name" : "IE_GERAR_SCRIPT",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "S"
+    }, {
+      "column_name" : "IE_BANCO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "Oracle"
+    }, {
+      "column_name" : "IE_TIPO_OBJETO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "PROCEDURE"
+    }, {
+      "column_name" : "DS_SCRIPT_CRIACAO",
+      "data_type" : "LONG",
+      "new_value" : null,
+      "old_value" : "CREATE OR REPLACE PROCEDURE CMDKLTD_SUM_2_VALUES6\nIS\nnumber1 number;\nnumber2 number;\ntotal number;\nBEGIN\n total:= number1 + number2 + 2;\nEND CMDKLTD_SUM_2_VALUES6;\n/"
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : null,
+      "old_value" : "14/05/2025 13:13:15"
+    }, {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 10146271
+    }, {
+      "column_name" : "IE_CRIPTOGRAFIA",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "N"
+    }, {
+      "column_name" : "DS_LAYER",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "CORE.CMDK_LTDA"
+    } ]
+  } ]
+}
