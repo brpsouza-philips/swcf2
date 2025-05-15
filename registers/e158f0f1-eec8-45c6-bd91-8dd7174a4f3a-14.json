@@ -23,7 +23,7 @@
     "primary_key_values" : [ {
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
-      "new_value" : "CMDKLTD_SUM_2_VALUES5",
+      "new_value" : "CMDKLTD_SUM_2_VALUES6",
       "old_value" : null
     }, {
       "column_name" : "IE_BANCO",
@@ -34,7 +34,7 @@
     "column_values" : [ {
       "column_name" : "NM_OBJETO",
       "data_type" : "VARCHAR2",
-      "new_value" : "CMDKLTD_SUM_2_VALUES5",
+      "new_value" : "CMDKLTD_SUM_2_VALUES6",
       "old_value" : null
     }, {
       "column_name" : "DT_CRIACAO",
@@ -74,7 +74,7 @@
     }, {
       "column_name" : "DS_SCRIPT_CRIACAO",
       "data_type" : "LONG",
-      "new_value" : "CREATE OR REPLACE PROCEDURE CMDKLTD_SUM_2_VALUES5\nIS\nnumber1 number;\nnumber2 number;\ntotal number;\nBEGIN\n total:= number1 + number2 + 2;\nEND CMDKLTD_SUM_2_VALUES5;\n/",
+      "new_value" : "CREATE OR REPLACE PROCEDURE CMDKLTD_SUM_2_VALUES6\nIS\nnumber1 number;\nnumber2 number;\ntotal number;\nBEGIN\n total:= number1 + number2 + 2;\nEND CMDKLTD_SUM_2_VALUES6;\n/",
       "old_value" : null
     }, {
       "column_name" : "DT_ATUALIZACAO",
