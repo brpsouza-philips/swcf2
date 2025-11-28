@@ -1,0 +1,18 @@
+{
+  "TIPO_LOCALIZAR" : [ {
+    "$operation" : "MERGE",
+    "DS_LOCALIZADOR" : "loc ext br 14 cmdk",
+    "IE_APRESENTACAO" : "N",
+    "TIPO_LOCALIZADOR_CLIENTE" : [ ],
+    "NM_USUARIO" : "cmdk_adm",
+    "IE_LOCALIZADOR_INTERNO" : "",
+    "DT_ATUALIZACAO_NREC" : "28/11/2025 15:51:53",
+    "IE_RESTRINGE_ESTAB" : "N",
+    "NR_SEQUENCIA" : "25032",
+    "TIPO_LOCALIZAR_ATRIBUTO" : [ ],
+    "DS_SQL" : "select 2 from dual",
+    "NM_USUARIO_NREC" : "cmdk_adm",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "28/11/2025 15:51:53"
+  } ]
+}
