@@ -1,0 +1,81 @@
+{
+  "LOCATOR_LOCALE" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "25/11/2025 17:02:51",
+    "DS_LOCALE" : "pt_BR",
+    "NR_SEQ_TIPO_LOCALIZAR" : "25005",
+    "NR_SEQUENCIA" : "6401",
+    "NM_USUARIO" : "brpsouza",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "NM_ATRIBUTO" : "ds",
+    "DT_ATUALIZACAO" : "25/11/2025 17:02:51"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "25/11/2025 17:05:04",
+    "DS_LOCALE" : "pt_BR",
+    "NR_SEQ_TIPO_LOCALIZAR" : "25005",
+    "NR_SEQUENCIA" : "6402",
+    "NM_USUARIO" : "brpsouza",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "NM_ATRIBUTO" : "br",
+    "DT_ATUALIZACAO" : "25/11/2025 17:05:04"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "25/11/2025 17:14:12",
+    "DS_LOCALE" : "pt_BR",
+    "NR_SEQ_TIPO_LOCALIZAR" : "25005",
+    "NR_SEQUENCIA" : "6405",
+    "NM_USUARIO" : "brpsouza",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "NM_ATRIBUTO" : "br",
+    "DT_ATUALIZACAO" : "25/11/2025 17:14:12"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "25/11/2025 17:18:29",
+    "DS_LOCALE" : "pt_BR",
+    "NR_SEQ_TIPO_LOCALIZAR" : "25005",
+    "NR_SEQUENCIA" : "6406",
+    "NM_USUARIO" : "brpsouza",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "NM_ATRIBUTO" : "ds",
+    "DT_ATUALIZACAO" : "25/11/2025 17:18:29"
+  } ],
+  "TIPO_LOCALIZAR_ATRIBUTO" : [ {
+    "$operation" : "CREATE",
+    "IE_TIPO_ATRIBUTO" : "VARCHAR2",
+    "DS_ITEM" : "descrption",
+    "IE_OCULTAR_RESTRICAO" : "N",
+    "NR_SEQ_TIPO_LOCALIZAR" : "25005",
+    "IE_IGNORAR_ACENTUACAO" : "N",
+    "NM_USUARIO" : "brpsouza",
+    "IE_GRID" : "N",
+    "IE_FOCUS" : "N",
+    "NM_ATRIBUTO" : "DS",
+    "DT_ATUALIZACAO_NREC" : "25/11/2025 16:59:11",
+    "IE_TIPO_SELECAO" : "",
+    "IE_UTILIZA_TARJA_MAGNETICA" : "N",
+    "NR_SEQ_APRESENT" : "1",
+    "NR_SEQUENCIA" : "39353",
+    "IE_TIPO_RESTRICAO" : "1",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "IE_RESULTADO" : "N",
+    "DT_ATUALIZACAO" : "25/11/2025 16:59:11",
+    "IE_DESC_RESULT" : "N"
+  } ],
+  "TIPO_LOCALIZAR" : [ {
+    "$operation" : "CREATE",
+    "DS_LOCALIZADOR" : "Loc for test",
+    "IE_APRESENTACAO" : "N",
+    "TIPO_LOCALIZADOR_CLIENTE" : [ ],
+    "NM_USUARIO" : "brpsouza",
+    "IE_LOCALIZADOR_INTERNO" : "",
+    "DT_ATUALIZACAO_NREC" : "25/11/2025 16:05:39",
+    "IE_RESTRINGE_ESTAB" : "N",
+    "NR_SEQUENCIA" : "25005",
+    "TIPO_LOCALIZAR_ATRIBUTO" : [ ],
+    "DS_SQL" : "select 1 from dual",
+    "NM_USUARIO_NREC" : "brpsouza",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "25/11/2025 16:05:39"
+  } ]
+}
